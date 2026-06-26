@@ -6,6 +6,7 @@ start Presentation with:
 <hr>
 ''npm run pages'' to publish the commited changes
 <br>
+
 ### how it works
 Demo: [materialShower](https://itbsstefan.github.io/materialShower)
 use the material Shower Theme ( duplicate n.html for a new HTML file slides-presentation ) or get setup ''npm install @shower/cli'' run shower create in local Terminal.
